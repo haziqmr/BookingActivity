@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "193527092339",
+    "project_id": "testing-c48a9",
+    "storage_bucket": "testing-c48a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193527092339:android:da945f615f7d7ccb5f8606",
+        "android_client_info": {
+          "package_name": "com.example.bookingactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193527092339-ffa08p173sksvroukiefd501nvl4vufd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE__hMXr4UzXSPu0lu7scww1cfdge2lcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193527092339-ffa08p173sksvroukiefd501nvl4vufd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193527092339:android:f8190632c21d48d65f8606",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193527092339-ffa08p173sksvroukiefd501nvl4vufd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE__hMXr4UzXSPu0lu7scww1cfdge2lcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193527092339-ffa08p173sksvroukiefd501nvl4vufd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
